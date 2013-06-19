@@ -1,4 +1,5 @@
 
+<<<<<<< HEAD:src/matrix.java
 public class Matrix {
 	private int r, c;
 	public int[][] data;
@@ -143,4 +144,6 @@ public class Matrix {
 		((Row) result).left.show();
 		
 	}
+=======
+>>>>>>> f4af3618b1c248addfb9694ad9a789982c72a694:src/Matrix.java
 }
